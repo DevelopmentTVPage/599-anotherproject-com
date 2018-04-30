@@ -1,0 +1,25 @@
+{
+    "title": "Home",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1442441396",
+    "date_modified": "1512754968",
+    "tags": "",
+    "sourceId": "10",
+    "status": "approved",
+    "visibility": "1",
+    "id": "6410336",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Home",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "180942075-0.png",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "180942075-01500281.png",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}

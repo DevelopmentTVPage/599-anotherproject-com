@@ -1,0 +1,103 @@
+{
+    "title": "9 Professional Knife Techniques",
+    "description": "",
+    "referenceId": "6dd8056d0c856560388573a6031ec51e",
+    "date_created": "1512752212",
+    "date_modified": "1516755897",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Featured",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "recipe_video",
+    "user_id": null,
+    "id": "132813495",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "6410336",
+    "titleTextEncoded": "bbb-v2-draft-10-g-1-mp4",
+    "category": "",
+    "duration": "154",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "154",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "154",
+        "prettyDuration": "00:02:34",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/247\/138\/315649659-1452261190.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132813495\/cc\/vtt\/en_1516755893.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "Blossom Video",
+    "uploader": "Maya Cherbaka",
+    "modified_date": "12\/8\/17",
+    "created_date": "12\/8\/17"
+}
