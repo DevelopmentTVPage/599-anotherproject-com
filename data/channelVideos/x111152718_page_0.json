@@ -1,0 +1,169 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "109990332",
+            "title": "Artisanal Kitchen Supply Dinnerware",
+            "date_created": "1502522760",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "71",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "71",
+                "prettyDuration": "00:01:11",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/thumb-9feb7ecbc52b57e747acae26718e8609-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109990332\/cc\/vtt\/en_1504292876.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111152718",
+            "url": "\/artisanal-kitchen-supply\/artisanal-kitchen-supply-dinnerware\/111152718-109990332"
+        },
+        {
+            "id": "109979551",
+            "title": "Artisanal Kitchen Supply Cookware",
+            "date_created": "1502520533",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": "",
+                "videoMeta": {
+                    "duration": "87",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "87",
+                "prettyDuration": "00:01:27",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/thumb-eda6f18897ceaeb0c9d642441ebc68b2-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/109979551\/8dc1c\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/109979551\/cc\/vtt\/en_1504293092.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "111152718",
+            "url": "\/artisanal-kitchen-supply\/artisanal-kitchen-supply-cookware\/111152718-109979551"
+        },
+        {
+            "id": "65670982",
+            "title": "Artisanal Kitchen Supply Dinnerware",
+            "date_created": "1462457807",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Get the products here!  http:\/\/bit.ly\/1T3kztO\nA curated assortment of wares from around the globe that celebrate the culinary experience. We're providing timeless, versatile tools that will inspire and empower the chef in you.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1rj2wbUfE5Q\/hqdefault.jpg",
+                "uploadDate": 1462457807,
+                "videoId": "1rj2wbUfE5Q",
+                "title": "Artisanal Kitchen Supply Dinnerware",
+                "description": "Get the products here!  http:\/\/bit.ly\/1T3kztO\nA curated assortment of wares from around the globe that celebrate the culinary experience. We're providing timeless, versatile tools that will inspire and empower the chef in you.",
+                "author": "Bed Bath & Beyond",
+                "mediaDuration": 71,
+                "prettyDuration": "00:01:11",
+                "views": "6"
+            },
+            "parentId": "111152718",
+            "url": "\/artisanal-kitchen-supply\/artisanal-kitchen-supply-dinnerware\/111152718-65670982"
+        }
+    ]
+}
