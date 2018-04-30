@@ -1,0 +1,103 @@
+{
+    "title": "DIY Gift Bag for the Glam Girl",
+    "description": "Looking for a glamorous gift to give? Want to add a special personal touch? Check out some of our personalizable items!",
+    "referenceId": "614f9db5705390ac88a3236b041ee316",
+    "date_created": "1512759142",
+    "date_modified": "1516755659",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "gifts",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "bed_bath_and_beyond",
+    "mod_request": "n_a",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "inspirational_video",
+    "user_id": null,
+    "id": "132813559",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "5",
+    "entityIdParent": "6410338",
+    "titleTextEncoded": "Glam-Girl-16x9-mp4",
+    "category": "",
+    "duration": "24",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "24",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "24",
+        "prettyDuration": "00:00:24",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1920\/1077\/125306173-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/132813559\/cc\/vtt\/en_1516755646.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/132813559\/b8c02\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "",
+    "uploader": "Melissa Cohen",
+    "modified_date": "",
+    "created_date": "12\/8\/2017"
+}
