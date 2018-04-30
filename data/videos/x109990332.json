@@ -1,0 +1,99 @@
+{
+    "title": "Artisanal Kitchen Supply Dinnerware",
+    "description": "",
+    "referenceId": "1729731589",
+    "date_created": "1502522760",
+    "date_modified": "1504292876",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": null,
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": null,
+    "mod_request": null,
+    "cc_request": null,
+    "creator": null,
+    "video_classification1": null,
+    "user_id": null,
+    "id": "109990332",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "111152718",
+    "titleTextEncoded": "artisanal-kitchen-supply-dinnerware",
+    "category": "",
+    "duration": "71",
+    "settings": "",
+    "asset": {
+        "user": "",
+        "videoMeta": {
+            "duration": "71",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "71",
+        "prettyDuration": "00:01:11",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/thumb-9feb7ecbc52b57e747acae26718e8609-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/109990332\/deb1c\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/109990332\/cc\/vtt\/en_1504292876.vtt",
+                "default": true
+            }
+        ]
+    },
+    "delete": "",
+    "notes": null,
+    "uploader": "ashley.davison",
+    "modified_date": "5\/17\/2016",
+    "created_date": "5\/10\/2016"
+}
