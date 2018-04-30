@@ -1,0 +1,24 @@
+{
+    "title": "Braun",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1438636575",
+    "date_modified": "1487126521",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "6288535",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Braun",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "444266029-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "444266029-0019311090.jpg"
+    },
+    "transcripts": null
+}
