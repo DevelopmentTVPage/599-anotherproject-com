@@ -1,0 +1,103 @@
+{
+    "title": "DIY Gifting for Coffee Lovers",
+    "description": "DIY Gifting for Coffee Lovers",
+    "referenceId": "3be47a4e2be1a091d32dc4744cfe0817",
+    "date_created": "1513098723",
+    "date_modified": "1516751525",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "video_type": "Gifting",
+    "status": "approved",
+    "visibility": "1",
+    "category_id_1": null,
+    "category_id_2": null,
+    "category_id_3": null,
+    "category_id_4": null,
+    "category_id_5": null,
+    "Concept": "BBB_US_and_BBB_CA",
+    "mod_request": "done",
+    "cc_request": "done1",
+    "creator": "in_house",
+    "video_classification1": "inspirational_video",
+    "user_id": null,
+    "id": "133182085",
+    "loginId": "1758166",
+    "entityType": "1",
+    "sortOrder": "0",
+    "entityIdParent": "6410338",
+    "titleTextEncoded": "Jetsetter-Holiday2017-mp4",
+    "category": "",
+    "duration": "33",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "33",
+            "width": 1080,
+            "height": 1080
+        },
+        "mediaDuration": "33",
+        "prettyDuration": "00:00:33",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/thumb-3be47a4e2be1a091d32dc4744cfe0817-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "cc": [
+            {
+                "label": "English",
+                "srclang": "en",
+                "src": "\/\/v.tvpage.com\/1758166\/133182085\/cc\/vtt\/en_1516751523.vtt",
+                "default": true
+            }
+        ],
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1080,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 720,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 480,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 360,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758166\/133182085\/12839\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 240,
+                "height": 240
+            }
+        ]
+    },
+    "delete": "",
+    "notes": "No Spoken Words",
+    "uploader": "Cory Brask",
+    "modified_date": "12\/12\/17",
+    "created_date": "12\/1\/17"
+}
