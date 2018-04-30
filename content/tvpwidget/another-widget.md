@@ -2,7 +2,7 @@
     "type": "carousel",
     "title": "another widget",
     "name": "another-widget",
-    "channelId": "6410338",
+    "channelId": "6288535",
     "layout": "bootstrap",
     "advertising": {
         "enabled": false,
