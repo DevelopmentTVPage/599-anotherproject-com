@@ -1,0 +1,507 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "132813495",
+            "title": "9 Professional Knife Techniques",
+            "date_created": "1512752212",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "154",
+                    "width": 1080,
+                    "height": 1080
+                },
+                "mediaDuration": "154",
+                "prettyDuration": "00:02:34",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/247\/138\/315649659-1452261190.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/132813495\/cc\/vtt\/en_1516755893.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1080,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 720,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 480,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 360,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/132813495\/ea883\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 240,
+                        "height": 240
+                    }
+                ]
+            },
+            "parentId": "6410336",
+            "url": "\/home\/bbb-v2-draft-10-g-1-mp4\/6410336-132813495"
+        },
+        {
+            "id": "85292729",
+            "title": "How to Clean Carpet Stains with OxiClean\u2122 Versatile Stain Remover",
+            "date_created": "1486404776",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Say goodbye to carpet stains (even wine!) with OxiClean Versatile Stain Remover. It uses the power of oxygen to remove tough stains and keep your carpets looking like new!\n\nWatch our video to learn how to clean carpet stains with OxiClean Versatile Stain Remover. OxiClean helpful tip: For best results, always follow package instructions for measuring and using OxiClean. Allow the solution to stand 1-5 minutes and do not let it air dry. Blot dry and repeat when necessary.",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Say goodbye to carpet stains (even wine!) with OxiClean\u2122 Versatile Stain Remover. It uses the power of oxygen to remove tough stains and keep your carpets looking like new!\n\nWatch our video to learn how to clean carpet stains with OxiClean\u2122 Versatile Stain Remover. OxiClean\u2122 helpful tip: For best results, always follow package instructions for measuring and using OxiClean\u2122. Allow the solution to stand 1-5 minutes and do not let it air dry. Blot dry and repeat when necessary.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AEzvEyayaak\/hqdefault.jpg",
+                "videoId": "AEzvEyayaak",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-clean-carpet-stains-with-oxiclean-versatile-stain-remover\/6410336-85292729"
+        },
+        {
+            "id": "85292728",
+            "title": "How to Remove Blood Stains with OxiClean\u2122 Versatile Stain Remover",
+            "date_created": "1486404768",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Scraped knees, nicked chins, cut fingers\u2014you can\u2019t always avoid these minor injuries. Fortunately, blood stains no longer have to mean ruined clothing thanks to OxiClean Versatile Stain Remover. \n\nWatch our video to learn how to remove blood stains from clothes or fabric. OxiClean helpful tip: For best results, presoak clothing in OxiClean Versatile Stain Remover for 1-6 hours before washing with detergent and OxiClean. It breaks down the protein in blood stains, so they come out the first time.",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Scraped knees, nicked chins, cut fingers\u2014you can\u2019t always avoid these minor injuries. Fortunately, blood stains no longer have to mean ruined clothing thanks to OxiClean\u2122 Versatile Stain Remover. \n\nWatch our video to learn how to remove blood stains from clothes or fabric. OxiClean\u2122 helpful tip: For best results, presoak clothing in OxiClean\u2122 Versatile Stain Remover for 1-6 hours before washing with detergent and OxiClean\u2122. It breaks down the protein in blood stains, so they come out the first time.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9UTT4GMZYy0\/hqdefault.jpg",
+                "videoId": "9UTT4GMZYy0",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-remove-blood-stains-with-oxiclean-versatile-stain-remover\/6410336-85292728"
+        },
+        {
+            "id": "85292727",
+            "title": "How to Remove Ink Stains from Clothes with OxiClean\u2122 Versatile Stain Remover",
+            "date_created": "1486404759",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Uh oh! Ink stains on your shirt? Don\u2019t worry, use OxiClean Versatile Stain Remover to get them out. Problem solved! \n\nWatch our video to learn how to remove ink stains from clothes. OxiClean helpful tip: For best results, presoak clothing in OxiClean Versatile Stain Remover for 1-6 hours before washing with detergent and OxiClean.",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Uh oh! Ink stains on your shirt? Don\u2019t worry, use OxiClean\u2122 Versatile Stain Remover to get them out. Problem solved! \n\nWatch our video to learn how to remove ink stains from clothes. OxiClean\u2122 helpful tip: For best results, presoak clothing in OxiClean\u2122 Versatile Stain Remover for 1-6 hours before washing with detergent and OxiClean\u2122.  To learn more about helpful OxiClean\u2122 uses visit www.oxiclean.com.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qY37bJdt-Os\/hqdefault.jpg",
+                "videoId": "qY37bJdt-Os",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-remove-ink-stains-from-clothes-with-oxiclean-versatile-stain-remover\/6410336-85292727"
+        },
+        {
+            "id": "85292726",
+            "title": "How to Remove Underarm Sweat Stains",
+            "date_created": "1486404749",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Tired of yellow sweat stains ruining your white clothes? Remove them without chlorine by using OxiClean White Revive Stain Remover. With 40% more whitening power than chlorine bleach, underarm sweat stains disappear and your whites look like new!",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Tired of yellow sweat stains ruining your white clothes? Remove them without chlorine by using OxiClean White Revive Stain Remover. With 40% more whitening power than chlorine bleach, underarm sweat stains disappear and your whites look like new!",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/m7KAtJ-FMhY\/hqdefault.jpg",
+                "videoId": "m7KAtJ-FMhY",
+                "mediaDuration": 22,
+                "prettyDuration": "00:00:22"
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-remove-underarm-sweat-stains\/6410336-85292726"
+        },
+        {
+            "id": "85292732",
+            "title": "A Day in the Life of Stains",
+            "date_created": "1486405939",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "A Day in the Life of Stains",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VsfQ_x8nDh0\/hqdefault.jpg",
+                "videoId": "VsfQ_x8nDh0",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/a-day-in-the-life-of-stains\/6410336-85292732"
+        },
+        {
+            "id": "85292724",
+            "title": "Introducing -  OxiClean Carpet Stain Removers",
+            "date_created": "1486404724",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Have carpet stains? Between mud, dirt and everyday spills, carpets go through a lot. But they don\u2019t have to be ruined forever. OxiClean Carpet Stain Removers harness the power of oxygen to attack the toughest carpet messes, including red wine and pet stains. So you can get stains and odors out the first time.",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Have carpet stains? Between mud, dirt and everyday spills, carpets go through a lot. But they don\u2019t have to be ruined forever. OxiClean Carpet Stain Removers harness the power of oxygen to attack the toughest carpet messes, including red wine and pet stains. So you can get stains and odors out the first time.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-p2srbpnmJM\/hqdefault.jpg",
+                "videoId": "-p2srbpnmJM",
+                "mediaDuration": 16,
+                "prettyDuration": "00:00:16"
+            },
+            "parentId": "6410336",
+            "url": "\/home\/introducing-oxiclean-carpet-stain-removers\/6410336-85292724"
+        },
+        {
+            "id": "85292723",
+            "title": "5 Ways to Keep Your Baby Gear Clean | OxiClean",
+            "date_created": "1486404715",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Babies are messy, but cleanup can be simple. Here are 5 easy ways to keep your baby\u2019s gear clean and stain-free!",
+            "asset": {
+                "type": "youtube",
+                "author": "OxiClean",
+                "hdvFlag": 1,
+                "description": "Babies are messy, but cleanup can be simple. Here are 5 easy ways to keep your baby\u2019s gear clean and stain-free! Learn more at http:\/\/www.oxiclean.com\/.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vR3NidfTEd0\/hqdefault.jpg",
+                "videoId": "vR3NidfTEd0",
+                "mediaDuration": 86,
+                "prettyDuration": "00:01:26",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/5-ways-to-keep-your-baby-gear-clean-oxiclean\/6410336-85292723"
+        },
+        {
+            "id": "85250306",
+            "title": "Nautica Home | Spring 2016 |",
+            "date_created": "1486074913",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Nautica at Home Spring 2016 Collection",
+            "asset": {
+                "type": "youtube",
+                "author": "Nautica",
+                "hdvFlag": 1,
+                "description": "Nautica at Home Spring 2016 Collection\n\nwww.Nautica.com\/home",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3IqM3breH9o\/hqdefault.jpg",
+                "videoId": "3IqM3breH9o",
+                "mediaDuration": 15,
+                "prettyDuration": "00:00:15",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/nautica-home-spring-2016\/6410336-85250306"
+        },
+        {
+            "id": "85250305",
+            "title": "Nautica At Home | Fall 2016",
+            "date_created": "1486074901",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The Nautica At Home Fall 2016 Collection.",
+            "asset": {
+                "type": "youtube",
+                "author": "Nautica",
+                "hdvFlag": 1,
+                "description": "The Nautica At Home Fall 2016 Collection. \n\nwww.Nautica.com\/home",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BxbNe51nFTE\/hqdefault.jpg",
+                "videoId": "BxbNe51nFTE",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/nautica-at-home-fall-2016\/6410336-85250305"
+        },
+        {
+            "id": "85479073",
+            "title": "Lasko 4443 Hybrid Blower Tower Fan",
+            "date_created": "1487894554",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The Lasko 40in Hybrid Blower Tower Fan with Remote Control delivers 30% more air than most tower fans, putting maximum air flow to work even in tight spaces.\n\nIdeal for kitchens, family rooms, home gyms, finished basements, and more\n\nFrom the brand you can trust...Lasko.",
+            "asset": {
+                "type": "youtube",
+                "author": "Lasko Products",
+                "hdvFlag": 1,
+                "description": "The Lasko 40in Hybrid Blower Tower Fan with Remote Control delivers 30% more air than most tower fans, putting maximum air flow to work even in tight spaces.\n\nIdeal for kitchens, family rooms, home gyms, finished basements, and more\n\nFrom the brand you can trust...Lasko.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Iz53iat__Xk\/hqdefault.jpg",
+                "videoId": "Iz53iat__Xk",
+                "mediaDuration": 41,
+                "prettyDuration": "00:00:41"
+            },
+            "parentId": "6410336",
+            "url": "\/home\/lasko-4443-hybrid-blower-tower-fan\/6410336-85479073"
+        },
+        {
+            "id": "85479074",
+            "title": "Lasko 2511 Tower Fan with Remote",
+            "date_created": "1487894560",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The Lasko 36in Tower Fan in black makes a great addition to bedroom, family room, home office, or dorm room. \n\nSpace-saving. Quiet. Refreshing. Comforting. \n\nFrom the brand you can trust...Lasko.",
+            "asset": {
+                "type": "youtube",
+                "author": "Lasko Products",
+                "hdvFlag": 1,
+                "description": "The Lasko 36in Tower Fan in black makes a great addition to bedroom, family room, home office, or dorm room. \n\nSpace-saving. Quiet. Refreshing. Comforting. \n\nFrom the brand you can trust...Lasko.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XZKFD78W_5M\/hqdefault.jpg",
+                "videoId": "XZKFD78W_5M",
+                "mediaDuration": 45,
+                "prettyDuration": "00:00:45"
+            },
+            "parentId": "6410336",
+            "url": "\/home\/lasko-2511-tower-fan-with-remote\/6410336-85479074"
+        },
+        {
+            "id": "85479075",
+            "title": "Lasko R12210 Classic Metal Table Fan",
+            "date_created": "1487894566",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The Lasko 12in Classic Table Fan marries vintage charm with modern performance. The all-metal design in oil-rubbed bronze finish includes a mid-century inspired Lasko nameplate.\n\nClassic style. Refreshing comfort. \n\nFrom the brand you can trust...Lasko.",
+            "asset": {
+                "type": "youtube",
+                "author": "Lasko Products",
+                "hdvFlag": 1,
+                "description": "The Lasko 12in Classic Table Fan marries vintage charm with modern performance. The all-metal design in oil-rubbed bronze finish includes a mid-century inspired Lasko nameplate.\n\nClassic style. Refreshing comfort. \n\nFrom the brand you can trust...Lasko.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XnWvI49rBUk\/hqdefault.jpg",
+                "videoId": "XnWvI49rBUk",
+                "mediaDuration": 40,
+                "prettyDuration": "00:00:40"
+            },
+            "parentId": "6410336",
+            "url": "\/home\/lasko-r12210-classic-metal-table-fan\/6410336-85479075"
+        },
+        {
+            "id": "85479082",
+            "title": "Car Rim Cleaner Tips | Mr. Clean\u00ae",
+            "date_created": "1487894626",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "When it comes to cleaning gunk and grime from your car\u2019s rims, Mr. Clean is like a one-man pit crew and an expert rim cleaner! He knows how to clean aluminum rims the right way, thanks to the Mr. Clean Magic Eraser Extra Durable. It has 50 percent more cleaning power than the Magic Eraser Original. So if you\u2019re not sure how to clean rims just remember, with more power and superior handling, there\u2019s no clean like Mr. Clean.\n\nThis Mr. Clean tutorial video demonstrates how to clean aluminum rims easily using the Mr. Clean Magic Eraser.\n\nFor alloy car wheels only. Test a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "When it comes to cleaning gunk and grime from your car\u2019s rims, Mr. Clean\u00ae is like a one-man pit crew and an expert rim cleaner! He knows how to clean aluminum rims the right way, thanks to the Mr. Clean Magic Eraser Extra Durable. It has 50 percent more cleaning power than the Magic Eraser Original. So if you\u2019re not sure how to clean rims just remember, with more power and superior handling, there\u2019s no clean like Mr. Clean.\n\nYou can also check our Mr. Clean\u2019s helpful how-to videos here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Extra Durable: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-extra-durable\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates how to clean aluminum rims easily using the Mr. Clean Magic Eraser.\n\nFor alloy car wheels only. Test a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rZ-UsXhwuaw\/hqdefault.jpg",
+                "videoId": "rZ-UsXhwuaw",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/car-rim-cleaner-tips-mr-clean\/6410336-85479082"
+        },
+        {
+            "id": "85481083",
+            "title": "Mr. Clean | New Super Bowl Ad | Cleaner of Your Dreams (EXTENDED CUT)",
+            "date_created": "1487894635",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Mr. Clean\u00a0satisfies\u00a0in every room of\u00a0the house, and there\u2019s a new Mr. Clean Super Bowl commercial to prove it!\u00a0\n\nWatch the Official Cleaner of Super Bowl LI show you some of his best moves\u00a0in the shower, on the floor, and even in the kitchen.\u00a0#MrClean\u00a0#SB51",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "Mr. Clean\u00a0satisfies\u00a0in every room of\u00a0the house, and there\u2019s a new Mr. Clean Super Bowl commercial to prove it!\u00a0\n\nWatch the Official Cleaner of Super Bowl LI show you some of his best moves\u00a0in the shower, on the floor, and even in the kitchen.\u00a0#MrClean\u00a0#SB51\u00a0\n\nWatch Mr. Clean\u2019s helpful how-to videos:\u00a0http:\/\/www.mrclean.com\/en-us\/how-to\u00a0\n\nLike us on Facebook:\u00a0https:\/\/www.facebook.com\/mrclean\n\nFollow us on Twitter:\u00a0https:\/\/twitter.com\/RealMrClean",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qBXB3cITT5Y\/hqdefault.jpg",
+                "videoId": "qBXB3cITT5Y",
+                "mediaDuration": 39,
+                "prettyDuration": "00:00:39",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/mr-clean-new-super-bowl-ad-cleaner-of-your-dreams-extended-cut\/6410336-85481083"
+        },
+        {
+            "id": "85481085",
+            "title": "How to Clean Patio Furniture | Mr. Clean\u00ae",
+            "date_created": "1487894641",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Not sure how to clean patio furniture? You want the Mr. Clean Magic Eraser Extra Durable. It has 50 percent more cleaning power than the Mr. Clean Magic Eraser Original, making it Mr. Clean\u2019s best way to clean patio furniture (and plastic kids\u2019 toys too). So sit back and relax under that umbrella, because when it comes to cleaning patio furniture, there\u2019s no clean like Mr. Clean.\n\nThis Mr. Clean tutorial video demonstrates how to clean patio furniture using the Mr. Clean Magic Eraser Extra Durable.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "Not sure how to clean patio furniture? You want the Mr. Clean\u00ae Magic Eraser Extra Durable. It has 50 percent more cleaning power than the Mr. Clean Magic Eraser Original, making it Mr. Clean\u2019s best way to clean patio furniture (and plastic kids\u2019 toys too). So sit back and relax under that umbrella, because when it comes to cleaning patio furniture, there\u2019s no clean like Mr. Clean.\n\nCheck out Mr. Clean\u2019s helpful how-to videos for cleaning across your home here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Extra Durable: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-extra-durable\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates how to clean patio furniture using the Mr. Clean Magic Eraser Extra Durable.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/msQOVkCCw30\/hqdefault.jpg",
+                "videoId": "msQOVkCCw30",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-clean-patio-furniture-mr-clean\/6410336-85481085"
+        },
+        {
+            "id": "85481088",
+            "title": "Mr. Clean\u2019s Best Rust Remover | Mr. Clean\u00ae",
+            "date_created": "1487894657",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "When you need someone you can trust to bust rust, call Mr. Clean! From removing rust stains in toilet bowls and sinks to bathtubs, shower drains and much more, Mr. Clean has you covered with his legendary rust removal products. Mr. Clean\u2019s best rust remover is the Mr. Clean Magic Eraser Extra Durable, with its specially textured micro-scrubbers for added rust cleaner power. When you want to bust rust once and for all, there\u2019s no clean like Mr. Clean!\n\nThis Mr. Clean tutorial video demonstrates Mr. Clean\u2019s best way to remove rust easily using the Mr. Clean Magic Eraser Extra Durable.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "When you need someone you can trust to bust rust, call Mr. Clean\u00ae! From removing rust stains in toilet bowls and sinks to bathtubs, shower drains and much more, Mr. Clean has you covered with his legendary rust removal products. Mr. Clean\u2019s best rust remover is the Mr. Clean Magic Eraser Extra Durable, with its specially textured micro-scrubbers for added rust cleaner power. When you want to bust rust once and for all, there\u2019s no clean like Mr. Clean!\n\nYou can also check our Mr. Clean\u2019s helpful how-to videos here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Extra Durable: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-extra-durable\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates Mr. Clean\u2019s best way to remove rust easily using the Mr. Clean Magic Eraser Extra Durable.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JPaMdcc1OOA\/hqdefault.jpg",
+                "videoId": "JPaMdcc1OOA",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/mr-clean-s-best-rust-remover-mr-clean\/6410336-85481088"
+        },
+        {
+            "id": "85481090",
+            "title": "How to Clean Bathtub Dirt and Grime | Mr. Clean\u00ae",
+            "date_created": "1487894664",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "No one knows how to clean bathtub dirt and grime, better than Mr. Clean\u00ae. And his best bathroom cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber. It\u2019s specially textured for extra scrubbing power and has the added scent of Febreze Meadows & Rain for extra freshness. So toss your old bathroom cleaner, because when it comes to bathtubs, there\u2019s no clean like Mr. Clean.\n\nThis Mr. Clean tutorial video demonstrates how to clean bathtub dirt and grime using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "No one knows how to clean bathtub dirt and grime, better than Mr. Clean\u00ae. And his best bathroom cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber. It\u2019s specially textured for extra scrubbing power and has the added scent of Febreze\u00ae Meadows & Rain for extra freshness. So toss your old bathroom cleaner, because when it comes to bathtubs, there\u2019s no clean like Mr. Clean.\n\nFor more cleanspiration, check our Mr. Clean\u2019s helpful how-to videos here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Foaming Bath Scrubber with Febreze\u00ae Meadows & Rain: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-foaming-bath-scrubber-with-febreze-meadows-and-rain\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates how to clean bathtub dirt and grime using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PRmr4SEFSTg\/hqdefault.jpg",
+                "videoId": "PRmr4SEFSTg",
+                "mediaDuration": 31,
+                "prettyDuration": "00:00:31",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-clean-bathtub-dirt-and-grime-mr-clean\/6410336-85481090"
+        },
+        {
+            "id": "85481091",
+            "title": "Grout Cleaning Tips | Mr. Clean\u00ae",
+            "date_created": "1487894673",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "When it comes to showers, Mr. Clean knows how to clean grout. His best grout cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber, with more durable scrubbing surface for more grout cleaning power. Remember, when it comes to tile and grout cleaning, there\u2019s no clean like Mr. Clean. \n\nThis Mr. Clean tutorial video demonstrates how to clean grout quickly and easily using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "When it comes to showers, Mr. Clean\u00ae knows how to clean grout. His best grout cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber, with more durable scrubbing surface for more grout cleaning power. Remember, when it comes to tile and grout cleaning, there\u2019s no clean like Mr. Clean. \n\nFor more cleaning hacks for surfaces across your home, check out Mr. Clean\u2019s helpful how-to videos here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Foaming Bath Scrubber with Febreze\u00ae Meadows & Rain: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-foaming-bath-scrubber-with-febreze-meadows-and-rain\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates how to clean grout quickly and easily using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qn7Z74JIBg8\/hqdefault.jpg",
+                "videoId": "qn7Z74JIBg8",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/grout-cleaning-tips-mr-clean\/6410336-85481091"
+        },
+        {
+            "id": "85481092",
+            "title": "How to Clean Bathroom Shower Tile | Mr. Clean\u00ae",
+            "date_created": "1487894680",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "If there\u2019s one thing Mr. Clean\u00ae knows, it\u2019s how to clean bathroom tile. And his best tile floor cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber, which is 30 percent larger than the Magic Eraser Original and has a more durable scrubbing surface for more bathroom shower tile cleaning power. It\u2019s Mr. Clean\u2019s go-to tile and grout cleaner for removing built up grime on your bathroom shower tile. So when you need to tackle tough tile grime remember, there\u2019s no clean like Mr. Clean.\n\nThis Mr. Clean tutorial video demonstrates how to clean bathroom tile easily using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+            "asset": {
+                "type": "youtube",
+                "author": "Mr. Clean",
+                "hdvFlag": 1,
+                "description": "If there\u2019s one thing Mr. Clean\u00ae knows, it\u2019s how to clean bathroom tile. And his best tile floor cleaner is the Mr. Clean Magic Eraser Foaming Bathroom Scrubber, which is 30 percent larger than the Magic Eraser Original and has a more durable scrubbing surface for more bathroom shower tile cleaning power. It\u2019s Mr. Clean\u2019s go-to tile and grout cleaner for removing built up grime on your bathroom shower tile. So when you need to tackle tough tile grime remember, there\u2019s no clean like Mr. Clean.\n\nFor more cleaning hacks, check our Mr. Clean\u2019s helpful how-to videos here: https:\/\/www.youtube.com\/user\/MrClean\n\nProduct featured:\nMr. Clean Magic Eraser Foaming Bath Scrubber with Febreze\u00ae Meadows & Rain: https:\/\/www.mrclean.com\/en-us\/shop-products\/magic-erasers\/magic-eraser-foaming-bath-scrubber-with-febreze-meadows-and-rain\n\nSubscribe! https:\/\/www.youtube.com\/subscription_center?add_user=mrclean\nLike us on Facebook: https:\/\/www.facebook.com\/mrclean\nFollow us on Twitter: https:\/\/twitter.com\/RealMrClean\nFollow us on Google+:\u00a0https:\/\/plus.google.com\/110152372957112484517\/videos\n\nThis Mr. Clean tutorial video demonstrates how to clean bathroom tile easily using the Mr. Clean Magic Eraser Foaming Bath Scrubber.\n\nTest a small area with light pressure before use. Not recommended for the following surfaces: high gloss, polished, dark, brushed, satin, faux, bare\/polished wood, copper, stainless steel appliances, non-stick coating or vehicle body. Rinse required for surfaces in direct contact with food. Do not use with chlorine bleach or other household cleaners. Do not use on skin or other body parts. Using on skin will likely cause abrasions. Avoid contact with eyes. May cause eye irritation. Keep out of reach of toddlers and pets to avoid accidental ingestion.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8jcPbgMAN3M\/hqdefault.jpg",
+                "videoId": "8jcPbgMAN3M",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "6410336",
+            "url": "\/home\/how-to-clean-bathroom-shower-tile-mr-clean\/6410336-85481092"
+        }
+    ]
+}
